@@ -1565,9 +1565,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.13:
-  version "4.17.15"
-  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^3.0.0:
   version "3.0.0"
@@ -2765,10 +2765,10 @@ vue@^3.0.0-beta.14:
     "@vue/runtime-dom" "3.0.0-beta.14"
     "@vue/shared" "3.0.0-beta.14"
 
-vuex@^3.0.0-beta.14:
-  version "3.4.0"
-  resolved "https://registry.npmjs.org/vuex/-/vuex-3.4.0.tgz#20cc086062d750769fce1febb34e7fceeaebde45"
-  integrity sha512-ajtqwEW/QhnrBZQsZxCLHThZZaa+Db45c92Asf46ZDXu6uHXgbfVuBaJ4gzD2r4UX0oMJHstFwd2r2HM4l8umg==
+vuex@^4.0.0-beta.2:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-4.0.0.tgz#ac877aa76a9c45368c979471e461b520d38e6cf5"
+  integrity sha512-56VPujlHscP5q/e7Jlpqc40sja4vOhC4uJD1llBCWolVI8ND4+VzisDVkUMl+z5y0MpIImW6HjhNc+ZvuizgOw==
 
 wcwidth@^1.0.1:
   version "1.0.1"
